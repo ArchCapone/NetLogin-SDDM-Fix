@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=NetLogin (User List)
+Description=NetLogin SDDM theme
+Author=Novomente
+Copyright=August 2020 Novomente
+License=GPLv2 or later
+Type=sddm-theme
+Version=2.0
+Website=https://www.pling.com/u/novomente/
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=netlogin
+Theme-API=${COMPONENTS_VERSION}
