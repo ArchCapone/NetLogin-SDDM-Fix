@@ -1,5 +1,12 @@
 # NetLogin SDDM Theme (Fixed for KDE/Plasma 6+)
 
+## Screenshots
+
+![NetLogin SDDM Theme Screenshot](screenshot.png)
+
+_Screenshot from the original [NetLogin](https://store.kde.org/p/1425334/) SDDM theme, included under the GPLv2+ license._
+
+
 This is a **fixed and updated version of the NetLogin SDDM theme** for KDE Plasma. The original theme was not compatible with the latest versions of KDE/Plasma and SDDM due to QML import changes. This repository provides a patched version that works on modern systems.
 
 ## About
